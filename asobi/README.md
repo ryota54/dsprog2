@@ -1,4 +1,4 @@
-# A jam Flet app
+# A asobi Flet app
 
 An example of a minimal Flet app.
 
